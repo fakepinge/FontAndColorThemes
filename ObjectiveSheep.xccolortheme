@@ -11,9 +11,9 @@
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>Monaco - 15.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.546105 0.515912 0.714 1</string>
+	<string>0.254902 0.8 0.270588 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Monaco - 15.0</string>
+	<string>AndaleMono - 15.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.902174 0.902174 0.902174 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
