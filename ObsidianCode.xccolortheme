@@ -5,25 +5,25 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>1 1 0 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>AndaleMono - 15.0</string>
+	<string>SFMono-Bold - 18.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>1 0.501961 0 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>AndaleMono - 15.0</string>
+	<string>SFMono-Bold - 18.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.254902 0.8 0.270588 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>AndaleMono - 15.0</string>
+	<string>SFMono-Bold - 18.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>1 0 0 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>AndaleMono - 15.0</string>
+	<string>SFMono-Bold - 18.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0.4 0.8 1 1</string>
+	<string>1 1 1 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>AndaleMono - 15.0</string>
+	<string>SFMono-Bold - 18.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0 0 0 1</string>
+	<string>0.121569 0.121569 0.141176 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
